@@ -13,7 +13,7 @@ In the project directory, you can run:
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Before you run the app in development mode you should include a .env file in the root directory and specify the following:
+Before you run the app in development mode you should include a `.env` file in the root directory and specify the following:
 
 1. REACT_APP_GOOGLE_API_KEY=
 2. REACT_APP_BACKEND_URL=http://localhost:5000/api
@@ -33,7 +33,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-Before you build the app for production mode you should include a .env.production file in the root directory and specify the following:
+Before you build the app for production mode you should include a `.env.production` file in the root directory and specify the following:
 
 1. REACT_APP_GOOGLE_API_KEY=
 2. REACT_APP_BACKEND_URL=http://localhost:5000/api
