@@ -1,0 +1,36 @@
+.user-item {
+  min-width: 45%;
+}
+
+.post-image {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.image__avatar {
+  padding: 30px;
+}
+
+.personal-info {
+  font-size: 19px;
+  width: 100%;
+  text-align: center;
+}
+
+.user-info {
+  font-weight: bold;
+}
+
+.line {
+  width: 55%;
+}
+
+.change-pass {
+  margin-left: 1rem;
+  text-align: center;
+}
+
+.profile-image__preview {
+  color: white;
+  text-align: center;
+}

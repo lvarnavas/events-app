@@ -1,0 +1,37 @@
+.event-item-of-user {
+  margin: 1rem auto;
+}
+
+.event-item-of-user__actions {
+  padding: 0;
+  text-align: center;
+}
+
+.event-item-of-user button,
+.event-item-of-user a {
+  margin: 0.5rem;
+}
+
+.event-item-of-user__modal-content {
+  padding: 0;
+}
+
+.event-item-of-user__modal-actions {
+  text-align: right;
+}
+
+.map-container {
+  height: 15rem;
+  width: 100%;
+}
+
+.title-btn {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+@media (max-width: 768px) {
+  .event-item-of-user__image {
+    height: 20rem;
+  }
+}

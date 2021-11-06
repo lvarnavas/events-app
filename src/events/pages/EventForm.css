@@ -1,0 +1,48 @@
+.event-form {
+  list-style: none;
+  margin: 0 auto;
+  padding: 1rem;
+  width: 50%;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  border-radius: 6px;
+  background: white;
+}
+
+.search-form {
+  list-style: none;
+  margin: 0 auto;
+  padding: 1rem;
+  width: 40%;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  border-radius: 6px;
+  background: white;
+  text-align: center;
+}
+
+.update-event--form {
+  list-style: none;
+  margin: 0 auto;
+  padding: 1rem;
+  width: 50%;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  border-radius: 6px;
+  background: white;
+}
+
+.line {
+  width: 55%;
+}
+
+@media (max-width: 768px) {
+  .update-event--form {
+    width: 350px;
+  }
+
+  .search-form {
+    width: 100%;
+  }
+
+  .event-form {
+    width: 100%;
+  }
+}

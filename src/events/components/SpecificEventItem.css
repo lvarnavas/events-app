@@ -1,0 +1,80 @@
+.specific-item {
+  margin: 1rem auto;
+}
+
+.specific-item__image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.26);
+}
+
+.slick-prev {
+  left: -45px;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  font-family: "slick";
+  font-size: 35px;
+  line-height: 1;
+  color: black;
+}
+
+.specific-item__info {
+  padding: 1rem;
+  background-color: #fff;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+}
+
+.specific-item__info h2 {
+  font-size: 30px;
+  padding-bottom: 50px;
+}
+
+.specific-item__info p {
+  margin-bottom: 0.5rem;
+  font-size: 22px;
+}
+
+.created-by {
+  text-align: right;
+}
+
+.specific-item__actions {
+  padding: 1rem;
+  text-align: center;
+  background: white;
+  border-top: 1px solid #ccc;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+}
+
+.specific-item__modal-content {
+  padding: 0;
+}
+
+.specific-item__modal-actions {
+  text-align: right;
+}
+
+.specific-item__actions button,
+.specific-item__actions a {
+  margin: 0.5rem;
+}
+
+.map-container {
+  height: 18.5rem;
+  width: 100%;
+}
+
+.line {
+  width: 50%;
+}
+
+.comments-section {
+  width: auto;
+  text-align: center;
+  color: #323232;
+  margin: 0 auto;
+}

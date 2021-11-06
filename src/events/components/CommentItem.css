@@ -1,0 +1,43 @@
+.profile-image {
+  margin: auto;
+}
+
+.user__content {
+  margin-bottom: 50px;
+  background-color: #fff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+}
+
+.button-remove-comment {
+  text-align: right;
+}
+
+.content {
+  text-align: center;
+  display: block;
+  word-wrap: break-word;
+  padding: 0 35px;
+}
+
+.comment-item__image {
+  margin: 50px auto;
+  max-width: 70%;
+}
+
+.comment-item__image img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+
+.posted-at {
+  text-align: right;
+  font-size: 14px;
+}
+
+@media (max-width: 768px) {
+  .comment-item__image {
+    padding-top: 50px;
+    max-width: 90%;
+  }
+}
