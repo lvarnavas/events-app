@@ -4,8 +4,6 @@ Navigate to the root directory and run `npm install`. This will install the proj
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
 In the project directory, you can run:
 
 ### `npm start`
@@ -41,8 +39,3 @@ Before you build the app for production mode you should include a `.env.producti
 4. PORT=80
 
 Notice: Instead of localhost you should include the server's IP.
-
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
